@@ -1,0 +1,13 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# User-specific files
+.Rproj.user/
+
+# macOS junk files (if you use a Mac)
+.DS_Store
