@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-This repository contains an individual module of a broader Research Module project on Regression Discontinuity Designs (RDD). The full group project encompassing additional specification testing can be found [here](Link_to_Lennart_Repo).
+This repository contains an individual module of a broader Research Module project on Regression Discontinuity Designs (RDD). The full group project encompassing additional specification testing can be found [here](https://github.com/Lenr4/RDD_Design).
 
 This specific module focuses exclusively on the finite-sample performance of nonparametric bandwidth selectors in the **Sharp Regression Discontinuity Design (SRD)**. 
 
